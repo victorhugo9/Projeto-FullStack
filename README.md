@@ -4,7 +4,7 @@
 
 *Programa GNU GPL* usando Java, TypeScript, ProgreSQL, H2, Spring Boot, React.  
 
-### Link App: &nbsp; [VendasWeb](https://dsvendas-victorhugo.netlify.app/) &nbsp;  &nbsp;  &nbsp; Link Código: &nbsp; [frontend](https://github.com/victorhugo9/projeto-sds4/tree/main/frontend) &nbsp;  &nbsp;  &nbsp; Link Código: &nbsp;
+### Link App: &nbsp; [VendasWeb](https://dsvendas-victorhugo.netlify.app/) &nbsp;  &nbsp;  &nbsp; Link Código: &nbsp; [frontend](https://github.com/victorhugo9/projeto-sds4/tree/main/frontend) &nbsp;  &nbsp;  &nbsp; 
 
 ![TelaInicial](img/frontend.png)
 
