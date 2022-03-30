@@ -2,7 +2,7 @@
 
 ![CRAN](https://img.shields.io/badge/%20LICENSE%20-GPL%203-blue.svg?style=for-the-badge)
 
-*Programa GNU GPL* usando  JS / TypeScript, ProgreSQL, H2, React.  
+*Programa GNU GPL* usando  JS / TypeScript, PostgreSQL, H2, React.  
 
 ### Link App: &nbsp; [VendasWeb](https://dsvendas-victorhugo.netlify.app/) &nbsp;  &nbsp;  &nbsp; Link Código: &nbsp; [frontend](https://github.com/victorhugo9/projeto-sds4/tree/main/frontend) &nbsp;  &nbsp;  &nbsp; 
 
